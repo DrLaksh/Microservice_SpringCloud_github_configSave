@@ -1,0 +1,12 @@
+
+#    @Value config changes
+build:
+  Version: "1.0.6"
+#  @Configuration changes
+cards:
+  message: "Welcome to MicroBank , this is For Dev APIs Section for cards"
+  contactDetails:
+    name: "Lakshya Acharya - Developer (Cards)"
+    email: "lakshyaacharya158@gmail.com"
+  onCallSupport:
+    "+91 - 7999415859"

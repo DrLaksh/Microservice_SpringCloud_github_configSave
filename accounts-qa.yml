@@ -1,0 +1,12 @@
+
+#    @Value config changes
+build:
+  Version: "2.0.6"
+#  @Configuration changes
+accounts:
+  message: "Welcome to MicroBank , this is For QA APIs Section for accounts"
+  contactDetails:
+    name: "Lakshya Acharya - QA accounts"
+    email: "lakshyaacharya158@gmail.com"
+  onCallSupport:
+    "+91 - 7999415859"

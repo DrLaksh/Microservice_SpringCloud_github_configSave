@@ -1,0 +1,13 @@
+
+
+#    @Value config changes
+build:
+  Version: "1.0.6"
+#  @Configuration changes
+loans:
+  message: "Welcome to MicroBank , this is For Dev APIs Section for Loans"
+  contactDetails:
+    name: "Lakshya Acharya - Developer (Loans)"
+    email: "lakshyaacharya158@gmail.com"
+  onCallSupport:
+    "+91 - 7999415859"
