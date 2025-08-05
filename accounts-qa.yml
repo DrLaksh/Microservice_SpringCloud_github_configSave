@@ -1,12 +1,12 @@
 
 #    @Value config changes
 build:
-  Version: "2.0.6"
+  Version: "8f2e745c8324e2709f0826ee94b56d7ce1a8c2511aa48cac9f01c063d5df8652"
 #  @Configuration changes
 accounts:
-  message: "Welcome to MicroBank , this is For QA APIs Section for accounts"
+  message: "954af16e8ebaaef4925499eb713fab96f7eaf82e8146affa1aea323687ded9a8bf9f3fb1910d85cd481d9218e9f70332f4807b714333eb2bda016ea66d75eb39791fe44c8fd4b49f71f9ee72cca48126"
   contactDetails:
-    name: "Lakshya Acharya - QA accounts"
-    email: "lakshyaacharya158@gmail.com"
+    name: "fe16a593c307f4c2555956ff9d87b2c5a7fa282174da043a5ed14a1734570d29b6ede4ef034cf9bf0d7070caef559f71"
+    email: "bb2f87f8fad0a580d9b6ea502a272675e26e4358d5a121eacb67a60c11f509f7f9c74fc12301a44e614a8f75c858c1f3"
   onCallSupport:
-    "+91 - 7999415859"
+    "939083b66514c75b384616c8c040df727c22192c52990e505d8cd39c39d11a4f98a798c5b0d3d83d0fa6e3175af95494"

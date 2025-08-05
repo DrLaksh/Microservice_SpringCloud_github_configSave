@@ -2,12 +2,12 @@
 
 #    @Value config changes
 build:
-  Version: "1.0.6"
+  Version: "b6fe1d6d1a614b5cf84862ddd36005818001e2f30a45e240de2a9fdc21df0cec"
 #  @Configuration changes
 loans:
-  message: "Welcome to MicroBank , this is For Dev APIs Section for Loans"
+  message: "63518e28e3b252b14c693dabb07fc98057527c5f13bf339ba99730aa592171d586c4d6797881b5010e0e30049fe96d06e4afede6db97810b5aa07562e1a1908191edf35f23d956b03b0af26b4170ad0d"
   contactDetails:
-    name: "Lakshya Acharya - Developer (Loans)"
-    email: "lakshyaacharya158@gmail.com"
+    name: "6fe690381013a0b63caf5dcd781e09c0d22ac293e7faa5d04798dcacde4cad90d292a23c8a4c934de722d04182035012203d0365d1ee49ba725ff471338b314c"
+    email: "fc2e504a5967cede711721b8e3afeb78ddf5ef55db0b209a88a4a6fd7eb76384b6a5908e645829e184d5eb832ea11720"
   onCallSupport:
-    "+91 - 7999415859"
+    "57b20e24c24ce13cb5173f3b4ceb9dc1e57aa2eada2192d17b1da02d59982f7347315df24551cc9e6cef85b0f7a0a22c"

@@ -1,12 +1,12 @@
 
 #    @Value config changes
 build:
-  Version: "3.0.6"
+  Version: "b60cd3e854b51f40bcee968a366e9157948d6413825e50159940dadf826baece"
 #  @Configuration changes
 cards:
-  message: "Welcome to MicroBank , this Apis is related to Cards and its communication"
+  message: "6c7135cd3a01be0aa19220c9612503b061f669f23fcce7015e04f2f9de209412a0362da509a6a568ca807fd4f808114503a9e7ec967bacda5c0e638bbd113ebdd2f85cfd6109184c3ce494d4655c5057a7f067358e25e4bdfa79b5de182f22a1"
   contactDetails:
-    name: "Lakshya Acharya - Support (Cards)"
-    email: "lakshyaacharya158@gmail.com"
+    name: "523277f0bd0cc7403ca16a523f3b4173239ba41d3b7306942f4a0cee32c8b59f15a49a9097efa634d99c27d10efe6170b6698cf4626200484ea16adda8144d21"
+    email: "e6a29972bfefbf3d88aa31455ca35ac338658df74f0dfd655682b79ab60e9a8e4c15af5008d7f9d9628a3c6b349eea5f"
   onCallSupport:
-    "+91 - 7999415859"
+    "7275e732ab52e3d9e5c89ca98b17b2d9460b6cbea141501440a793eec344096c243504ca3eaee073778304a1fa639ed4"

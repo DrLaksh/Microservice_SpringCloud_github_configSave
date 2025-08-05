@@ -1,12 +1,12 @@
 
 #    @Value config changes
 build:
-  Version: "3.0.6"
+  Version: "df6fe8d78aaf2bd3eb5952d66c2be021175ff9fad2e180e455b5a948a0411e18"
 #  @Configuration changes
 loans:
-  message: "Welcome to MicroBank , this Apis is related to loans and its communication"
+  message: "86696d32a3498d77f6bb7439f694cd074840edfb2618a8333438df3bf5869b32b081a62eaf53d103e8706a292e3cf350c8bae23efa5645abe08936f3dfd8f57d131a584169b37de42fb72cd91cdc9883f47f74b36b18fcd042c950057b38b5e1"
   contactDetails:
-    name: "Lakshya Acharya - Support (Loans)"
-    email: "lakshyaacharya158@gmail.com"
+    name: "145cdfa573cb70eb63ccb6c0b2f506e2a7025e3113bf9a716f60d1d0d971e39a831228575171dae65c8a5db2b28d7b20ccdd61f8f44a80bc69273c60c70047d1"
+    email: "dfdf744853333a75ffdb69a720cdda9fb2923e7135ae55c7ace2128855b113b9c04aa41a499bd305fa2f41ed9775f022"
   onCallSupport:
-    "+91 - 7999415859"
+    "3def01dd65af14374865d4df019162de623ee68ab7c7932e1e93d93ea4379f25f504ba37d5e8f51c492cc901d60cba7e"
